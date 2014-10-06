@@ -36,5 +36,18 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>FacebookAppID</key>
+	<string>your-facebook-app-id</string>
+	<key>FacebookDisplayName</key>
+	<string>Tinder Clone</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb+your-facebook-app-id</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
